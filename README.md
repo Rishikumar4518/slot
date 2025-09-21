@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## Date:
+## Date:21/09/2025
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -25,6 +25,7 @@ Execute the program using runserver command.
 
 ## PROGRAM
 
+![Uploading whatsapp.jpg…]()
 
 ## OUTPUT
 
